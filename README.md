@@ -1,5 +1,5 @@
 # Alphabet Soup Grant Success Classifier: A Machine Learning Approach
-
+# Analysis Report
 ## Overview
 Alphabet Soup, a nonprofit foundation wants to design a tool that can help it select the applicants for funding with the best chance of success in their ventures.
 The primary objective is to design and evaluate multiple deep learning models to determine which architecture offers the best performance in terms of accuracy. The designed predictive model will support Alphabet Soup in making more informed and strategic funding decisions.
