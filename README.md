@@ -25,14 +25,14 @@ The primary objective is to design and evaluate multiple deep learning models to
 
 ### Compiling, Training, and Evaluating the Model
 * 1. Initial Model
-                ![initial model](images/initial_model)
+                ![initial model](images/initial_model.png)
 #### Attempts to increase model performance (for epochs = 100 and input features = 44)
 * 1. Deliverable Model 
-                ![model1](images/model1)
+                ![model1](images/model1.png)
 * 2. Deliverable Model 2
-                ![model2](images/model2)
+                ![model2](images/model2.png)
 * 3. Deliverable Model 3
-                ![model3](images/model3)
+                ![model3](images/model3.png)
 
 #### Steps to increase model performance
 Across the four models, I experimented with 2 hidden layers and varied the number of neurons and activation functions to evaluate performance:
