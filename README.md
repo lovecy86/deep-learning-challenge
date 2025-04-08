@@ -29,13 +29,16 @@ The primary objective is to design and evaluate multiple deep learning models to
 ![initial model](images/initial_model.png)
 #### Attempts to increase model performance (for epochs = 100 and input features = 44)
 
-* 1. Deliverable Model 
+* 1. Deliverable Model 1
+
 ![model1](images/model1.png)
 
 * 2. Deliverable Model 2
+
 ![model2](images/model2.png)
 
 * 3. Deliverable Model 3
+
 ![model3](images/model3.png)
 
 #### Steps to increase model performance
