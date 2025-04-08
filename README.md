@@ -24,7 +24,7 @@ The primary objective is to design and evaluate multiple deep learning models to
     * IS_SUCCESSFUL—Was the money used effectively
 
 ### Compiling, Training, and Evaluating the Model
-* 1. Initial Model
+* 1. Initial Model(for epochs = 100 and input features = 44)
 
 ![initial model](images/initial_model.png)
 #### Attempts to increase model performance (for epochs = 100 and input features = 44)
